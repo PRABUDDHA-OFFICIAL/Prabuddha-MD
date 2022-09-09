@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "name": "PRABUDDHA OFFICIAL,SEWWANDI EDITION",
+  "description": "This is Whatsapp Multi Device Public Edition Powere by PRABUDDHA OFFICIAL",
+  "repository": "https://github.com/PRABUDDHA/OFFICIAL/",
+  "logo": "https://i.imgur.com/SdZFgwU.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
